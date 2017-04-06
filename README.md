@@ -1,1 +1,1 @@
-# crowdsensing17
+Crowdsensing socket server development
